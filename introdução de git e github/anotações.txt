@@ -1,0 +1,3 @@
+link de dowlnoad do git: https://git-scm.com/downloads
+
+O Git bash e um terminal extendido para otimizar o suo do git
